@@ -7,7 +7,7 @@
 - 💬 Ask me about web design & web development.
 - 📫 How to reach me: add me on instagram & dribbble with the same username: @nomadkode.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I cannot think one at the moment.
+- ⚡ Fun fact: I cannot think lot of things at the moment.
 
 
 ![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&theme=onedark&count_private=true)
