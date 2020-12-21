@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with how to make a web site/apps in creative & modern way.
 - 💬 Ask me about web design & web development.
 - 📫 How to reach me: add me on instagram & dribbble with the same username: @nomadkode.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I cannot think one at the moment.
 
 
