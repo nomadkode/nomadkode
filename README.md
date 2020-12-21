@@ -7,7 +7,7 @@
 - 💬 Ask me about web design & web development.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I cannot think lot of things at the moment.
-- Reach me on:
+- 📫 Reach me on:
 <a href="mailto:setiawanramadyan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://github.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://instagram.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
