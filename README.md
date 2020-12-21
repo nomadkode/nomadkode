@@ -9,4 +9,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I cannot think one at the moment.
 
-![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&count_private=true)
+![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&theme=onedark&count_private=true)
