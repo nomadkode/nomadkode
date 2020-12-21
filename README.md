@@ -9,5 +9,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I cannot think one at the moment.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&theme=onedark)](https://github.com/nomadkode/github-readme-stats)
 ![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&theme=onedark&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&show_icons=true&theme=onedark)](https://github.com/nomadkode/github-readme-stats)
+
