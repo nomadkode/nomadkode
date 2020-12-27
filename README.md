@@ -19,4 +19,6 @@
 -->
 
 
-![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&count_private=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark)](https://github.com/nomadkode/github-readme-stats)
+![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&count_private=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark)](https://github.com/nomadkode/github-readme-stats)
