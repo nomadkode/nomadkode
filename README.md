@@ -3,10 +3,9 @@
 - 🔭 I’m currently working on mobile-first design & web site/apps.
 - 🌱 I’m currently learning Vanilla JS along with PWA & React JS.
 - 👯 I’m looking to collaborate in open-source & paid projects.
-- 🤔 I’m looking for help with how to make a web site/apps in creative & modern way.
 - 💬 Ask me about web design & web development.
 - 😄 Pronouns: He/Him.
-- ⚡ Fun fact: I like dystopian theme, [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, lofi hop & city pop music, cyberpunk fonts & neon color palette.
+- ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, lofi hop & city pop music.
 - 📫 Reach me on:
 <a href="mailto:setiawanramadyan@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 <a href="https://instagram.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
