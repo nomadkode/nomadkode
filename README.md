@@ -17,7 +17,7 @@
 <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 -->
-
+![Metrics](https://metrics.lecoq.io/nomadkode)
 
 ![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&count_private=true&theme=onedark)
 
