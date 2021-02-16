@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
 
-- 🔭 I’m currently working on mobile-first design & web site/apps.
-- 🌱 I’m currently learning Vanilla JS along with PWA & React JS.
+- 🔭 I’m currently working on mobile-first design & website / app.
+- 🌱 I’m currently learning Vanilla JS along with React JS & PWA.
 - 👯 I’m looking to collaborate in open-source & paid projects.
 - 💬 Ask me about web design & web development.
 - 😄 Pronouns: He/Him.
