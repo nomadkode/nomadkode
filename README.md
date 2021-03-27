@@ -1,7 +1,7 @@
 ### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
 
-- 🔭 I’m currently working on mobile-first design & website / app.
-- 🌱 I’m currently learning Vanilla JS along with React JS & PWA.
+- 🔭 I’m currently working on mobile-first web app.
+- 🌱 I’m currently learning Javascript, Golang & Python.
 - 👯 I’m looking to collaborate in open-source & paid projects.
 - 💬 Ask me about web design & web development.
 - 😄 Pronouns: He/Him.
@@ -19,6 +19,6 @@
 -->
 ![Metrics](https://metrics.lecoq.io/nomadkode)
 
-![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&count_private=true&theme=onedark)
+![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark)](https://github.com/nomadkode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark&langs_count=10)](https://github.com/nomadkode/github-readme-stats)
