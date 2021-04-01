@@ -17,11 +17,9 @@
 <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 -->
-![Metrics](https://metrics.lecoq.io/nomadkode)
 
-![nomadkode's github stats](https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=onedark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark&langs_count=10)](https://github.com/nomadkode/github-readme-stats)
+<p align="center"><img align="center" src="https://metrics.lecoq.io/nomadkode" alt="nomadkode" />
+<p align="center"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" alt="nomadkode" /> <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark&langs_count=10&https://github.com/nomadkode/github-readme-stats" alt="nomadkode" /></p>
 
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
