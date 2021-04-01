@@ -6,10 +6,6 @@
 - 💬 Ask me about web design & web development.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, [lofi hop](https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO) & [city pop](https://www.youtube.com/watch?v=3bNITQR4Uso) music.
-- 📫 Reach me out please! 😄 on:
-<a href="mailto:ramsetiawan@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
-<a href="https://instagram.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://t.me/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a>
 
 <!--
 <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
@@ -58,3 +54,7 @@
 -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nomadkode&label=Profile%20views&color=blue&style=flat-square" alt="nomadkode" /> </p>
+<p align="center"> 📫 Reach me out please! 😄 on: </p>
+<p align="center"> <a href="mailto:ramsetiawan@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
+<a href="https://instagram.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://t.me/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a> </p>
