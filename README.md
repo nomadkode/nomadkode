@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
 
-- 🔭 I’m currently working on personal portfolio, personal blog, economics e-learning platform, e-commerce with team projects.
+- 🔭 I’m currently working on personal portfolio, personal blog, niche e-learning platform, niche e-commerce with team projects.
 - 🌱 I’m currently learning Javascript, Golang & Python.
 - 👯 I’m looking to collaborate in open-source & paid projects.
 - 💬 Ask me about web design & web development.
