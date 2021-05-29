@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate in open-source & paid projects.
 - 💬 Ask me about web design & web development.
 - ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, [lofi hop](https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO) & [city pop](https://www.youtube.com/watch?v=3bNITQR4Uso) music.
+- ⚡ Fav websites: [Dev.to](https://dev.to/), [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/news/), [gitconnected](https://levelup.gitconnected.com/), [JS in Plain English](https://javascript.plainenglish.io/).
 
 <!--
 <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
