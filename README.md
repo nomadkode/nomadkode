@@ -4,17 +4,17 @@
 - 🌱 I’m currently learning Javascript, Golang & Python.
 - 👯 I’m open for paid project and collaborate in open-source project.
 - 💬 Ask me about web design & web development.
-- ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, [lofi hop](https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO) & [city pop](https://www.youtube.com/watch?v=3bNITQR4Uso) music.
 - 💻 Fav websites: [MDN Web Docs](https://developer.mozilla.org/en-US/), [Dev.to](https://dev.to/), [CSS-Tricks](https://css-tricks.com/), [freeCodeCamp](https://www.freecodecamp.org/news/), [gitconnected](https://levelup.gitconnected.com/), [JS in Plain English](https://javascript.plainenglish.io/).
 - ❤️ Fav youtube channel: [Web Programming Unpas](https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg), [Programmer Zaman Now](https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ), [Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA), [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg).
+- ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, [lofi hop](https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO) & [city pop](https://www.youtube.com/watch?v=3bNITQR4Uso) music.
 
 <!--
 <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 -->
 
-<p align="center"><img align="center" src="https://metrics.lecoq.io/nomadkode" alt="nomadkode" />
 <p align="center"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=onedark" alt="nomadkode" /> <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=onedark&langs_count=10&https://github.com/nomadkode/github-readme-stats" alt="nomadkode" /></p>
+<p align="center"><img align="center" src="https://metrics.lecoq.io/nomadkode" alt="nomadkode" />
 
 <p align="center"> 📫 Reach me out please! 😄 on: </p>
 <p align="center"> <a href="mailto:ramsetiawan@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
