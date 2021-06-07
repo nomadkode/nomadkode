@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
 
-- 🔭 I’m (a project hopper 😩) currently working on travel website, music streaming app, realtime chat app, social media platform, personal blog & forum website, e-learning platform & e-commerce web app.
+- 🔭 I’m currently working on portfolio projects & the portfolio website itself.
 - 🌱 I’m currently learning Javascript, Golang & Python.
 - 👯 I’m open for paid project and collaborate in open-source project.
 - 💬 Ask me about web design & web development.
