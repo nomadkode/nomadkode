@@ -20,4 +20,4 @@
 <a href="https://github.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://twitter.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://t.me/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nomadkode&label=Profile%20views&color=blue&style=flat-square" alt="nomadkode" /> </p>
+
