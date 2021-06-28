@@ -1,6 +1,5 @@
 ### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
 
-- 🔭 I’m currently working on portfolio projects & the portfolio website itself.
 - 🌱 I’m currently learning Javascript, Golang & Python.
 - 👯 I’m open for paid project and collaborate in open-source project.
 - 💬 Ask me about web design & web development.
