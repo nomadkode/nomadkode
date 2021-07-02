@@ -1,6 +1,7 @@
 ### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
 
-- 🌱 I’m currently learning JS/TS, Golang & Python.
+- 😄 I'm usually works with HTML, CSS, CSS in JS, Bootstrap, Javascript, React, Vue 3, Nodejs, Mongodb / Postgresql.
+- 🌱 I’m currently learning Typescript, Golang & Python.
 - 👯 I’m open for paid project and collaborate in open-source project.
 - 💬 Ask me about web design & web development.
 - ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, [lofi hop](https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO) & [city pop](https://www.youtube.com/watch?v=3bNITQR4Uso) music.
