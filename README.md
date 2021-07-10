@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 -->
 
-<p align="center"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="nomadkode" /> <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&layout=compact&show_icons=true&theme=radical&langs_count=10" alt="nomadkode" /></p>
+<p align="center"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="nomadkode" /> <img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&show_icons=true&layout=compact&langs_count=10&count_private=true&theme=radical" alt="nomadkode" /></p>
 
 <p align="center"><img align="center" src="https://metrics.lecoq.io/nomadkode" alt="nomadkode" /></p>
 
