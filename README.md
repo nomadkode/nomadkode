@@ -1,4 +1,5 @@
-### Hi there, I'm [Ramset](https://nomadkode.github.io) 👋
+### Hi there, I'm Ramset 👋
+<!-- [Ramset](https://nomadkode.github.io)  -->
 
 - 🌱 I’m currently learning Typescript, Golang & Python.
 - 👯 I’m open for paid project and collaborate in open-source project.
