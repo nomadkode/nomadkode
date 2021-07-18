@@ -1,9 +1,11 @@
 ### Hi there, I'm Ramset 👋
 <!-- [Ramset](https://nomadkode.github.io)  -->
-
+- 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning Javascript/Typescript & the ecosystems.
-- 👯 I’m open for paid project and collaborate in open-source project.
-- 💬 Ask me about web design & web development.
+- 👨🏻‍💻 I’m currently building Rumah Berbagi App and my personal dotfiles as side projects.
+- 👯 I’m looking to collaborate on any open source projects related to React and JavaScript.
+<!-- 🤔 I’m looking for help with -->
+- 💬 Ask me about anything related to React, HTML-CSS and JavaScript.
 - ⚡ Fun fact: I like [Orwell](https://en.wikipedia.org/wiki/George_Orwell)'s books, [Blade Runner](https://www.imdb.com/title/tt0083658/) & [The Matrix](https://www.imdb.com/title/tt0133093/) movie, [lofi hop](https://open.spotify.com/playlist/74sUjcvpGfdOvCHvgzNEDO) & [city pop](https://www.youtube.com/watch?v=3bNITQR4Uso) music.
 
 <!--
