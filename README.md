@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Javascript/Typescript & the ecosystems. (sometimes python & golang when I've got JS fatigue). 🤔
 - 👨🏻‍💻 I’m currently building: 
 
-     1. eccomerce app (so people can buy things from me), 
+     1. eccomerce web app (so people can buy things on my app), 
      2. learning platform (so people can learn something from me), 
      3. chat app (so people can interact with each other) & 
      4. portfolio website (so people would know what can I do for them). 😄
