@@ -2,7 +2,7 @@
 <!-- [Ramset](https://nomadkode.github.io)  -->
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning Javascript/Typescript & the ecosystems.
-- 👨🏻‍💻 I’m currently building 
+- 👨🏻‍💻 I’m currently building: 
      1. eccomerce app (so people can buy things from me), 
      2. learning platform (so I can sell courses to people in need), 
      3. chat app (so I can interact with people) & 
