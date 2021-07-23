@@ -5,9 +5,9 @@
 - 👨🏻‍💻 I’m currently building: 
 
      1. eccomerce app (so people can buy things from me), 
-     2. learning platform (so I can sell courses to people in need), 
-     3. chat app (so I can interact with people) & 
-     4. portfolio website (so people would know lil bit about me). 😄
+     2. learning platform (so people can learn something from me), 
+     3. chat app (so people can interact with each other) & 
+     4. portfolio website (so people would know what can I do for them). 😄
  
 - 👯 I’m looking to collaborate on any open source projects related to React, Vue and Javascript.
 - 💬 Ask me about anything related to React, Vue, HTML-CSS and Javascript.
