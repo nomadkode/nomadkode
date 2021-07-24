@@ -29,4 +29,4 @@
 <a href="https://github.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
 <a href="https://twitter.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://t.me/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a> </p>
-<a href="https://discord.com/users/699805306934263828" target="_blank"><p align="center"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></p></a>
+<p align="center"><a href="https://discord.com/users/699805306934263828" target="_blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></a></p>
