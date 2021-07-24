@@ -1,4 +1,5 @@
 ### Hi there, I'm Ramset 👋
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/699805306934263828)](https://discord.com/users/699805306934263828)
 <!-- [Ramset](https://nomadkode.github.io)  -->
 - 🔭 I’m currently working as a freelancer.
 - 🌱 I’m currently learning Javascript/Typescript & the ecosystems. (sometimes python & golang when I've got JS fatigue). 🤔
