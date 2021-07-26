@@ -19,10 +19,9 @@
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 -->
 
-<p align="center"><img align="center" src="https://metrics.lecoq.io/nomadkode" alt="nomadkode" /></p>
+<p align="center"><img align="center" src="https://metrics.lecoq.io/nomadkode?template=classic&isocalendar=1&languages=1&activity=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="nomadkode" /></p>
 <!-- <img height="150" align="center" src="https://github-readme-stats.vercel.app/api?username=nomadkode&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="nomadkode" /> -->
-<p align="center"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&show_icons=true&layout=compact&langs_count=10&count_private=true&theme=radical" alt="nomadkode" /></p>
-
+<!-- <p align="center"><img height="150" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nomadkode&show_icons=true&layout=compact&langs_count=10&count_private=true&theme=radical" alt="nomadkode" /></p> -->
 <p align="center"><a href="https://discord.com/users/699805306934263828" target="_blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></a></p>
 
 <p align="center"> 📫 Reach me out please! 😄 on: </p>
