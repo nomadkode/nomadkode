@@ -58,28 +58,13 @@ jobs:
           plugin_activity_days: 14
           plugin_activity_filter: all
           config_padding: 0, 8 + 1%
-          
-          
-      # notable contrib
-      - name: display_contribution
-        uses: lowlighter/metrics@latest
-        with:
-          filename: contribution_achievement.svg
-          token: ${{ secrets.MATRICS }}
-          user: nomadkode
-          base: metadata
-          repositories: 20
-          repositories_batch: 5
-          # plugin_notable_filter: stars:>500
-          plugin_notable: yes
-          config_padding: 0, 8 + 1%
 
       #achievements
       - name: display_achivement
         uses: lowlighter/metrics@latest
         with:
           filename: achievements-metrics.svg
-          token: ${{ secrets.MATRICS }}
+          token: ${{ METRICS_TOKEN}}
           base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
