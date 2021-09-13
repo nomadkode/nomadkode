@@ -13,7 +13,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.MATRICS }}
+          token: ${{ METRICS_TOKEN }}
           user: nomadkode
           # template
           template: classic
@@ -30,7 +30,7 @@ jobs:
           # programming language
           plugin_languages: yes
           plugin_languages_ignored: html
-          plugin_languages_skipped: my-testing-repo
+          plugin_languages_skipped: no
           plugin_languages_details: percentage
           plugin_languages_threshold: 2%
           plugin_languages_limit: 15
