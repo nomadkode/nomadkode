@@ -1,6 +1,6 @@
 <h1 align="center">Hi there nomad, I'm Ramset 👋</h1>
 <!-- [Ramset](https://nomadkode.github.io)  -->
-<h2 align="center">Highlight of my activities<br/><img align="center" src="https://metrics.lecoq.io/nomadkode?template=classic&isocalendar=1&languages=1&introduction=1&lines=1&activity=1&achievements=1&people=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.details=bytes-size%2C%20percentage&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&activity.limit=10&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=public&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta" alt="nomadkode" /></h2>
+<h2 align="center">Highlight of my activities<br/><img align="center" src="![Metrics](github-metrics.svg)" alt="nomadkode" /></h2>
 
 <h1 align="center"><a href="https://discord.com/users/699805306934263828" target="_blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></a></h1>
 
