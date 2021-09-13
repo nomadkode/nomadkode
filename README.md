@@ -1,6 +1,6 @@
 <h1 align="center">Hi there nomad, I'm Ramset 👋</h1>
 <!-- [Ramset](https://nomadkode.github.io)  -->
-<h2 align="center">Highlight of my activities<br/><img align="center" src="![Metrics](github-metrics.svg)" alt="nomadkode" /></h2>
+<h2 align="center">Highlight of my activities<br/><img align="center" src="![Metrics](https://github.com/nomadkode/nomadkode/blob/main/github-metrics.svg)" alt="nomadkode" /></h2>
 
 <h1 align="center"><a href="https://discord.com/users/699805306934263828" target="_blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></a></h1>
 
