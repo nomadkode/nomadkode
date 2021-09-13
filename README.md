@@ -1,8 +1,5 @@
 <h1 align="center">Hi there nomad, I'm Ramset 👋</h1>
 <!-- [Ramset](https://nomadkode.github.io)  -->
-<h2 align="center">Highlight of my activities<br/></h2>
-<p align="center"><img src="https://github.com/nomadkode/nomadkode/blob/main/github-metrics.svg" alt="nomadkode"></p>
-
 <h1 align="center"><a href="https://discord.com/users/699805306934263828" target="_blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></a></h1>
 
 <p align="center"> 📫 Reach me out please! 😄 on: </p>
@@ -13,3 +10,6 @@
 <a href="https://t.me/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-Telegram-2ca5e0?style=flat-square&logo=telegram" alt="Telegram"></a> </p>
 <!-- <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+
+<h2 align="center">Highlight of my activities</h2>
+<p align="center"><img src="https://github.com/nomadkode/nomadkode/blob/main/github-metrics.svg" alt="nomadkode"></p>
