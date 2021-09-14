@@ -1,71 +1,50 @@
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
 name: Metrics
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  push: {branches: ["main", "master"]}
+  push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: display_information_1
-        uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ METRICS_TOKEN }}
-          user: nomadkode
-          # template
-          template: classic
-          # base
-          base: activity, community, repositories, metadata
-          # timezone
-          config_timezone: Asia/Jakarta
-          # filename
-          filename: github-metrics.svg
-          # repositories batch
-          repositories_batch: 5
-          # repositories limit
-          repositories: 100
-          # programming language
-          plugin_languages: yes
-          plugin_languages_ignored: html
-          plugin_languages_skipped: no
-          plugin_languages_details: percentage
-          plugin_languages_threshold: 2%
-          plugin_languages_limit: 15
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: no
-          plugin_languages_recent_load: 500
-          plugin_languages_recent_days: 7
-          commits_authoring: nomadkode
-          # coding habits
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-          plugin_habits_trim: yes
-          # line of code changed
-          plugin_lines: yes
-          # topics
-          plugin_topics: yes
-          plugin_topics_sort: stars
-          plugin_topics_mode: mastered
-          plugin_topics_limit: 0
-          # recent activity
-          plugin_activity: yes
-          plugin_activity_limit: 5
-          plugin_activity_days: 14
-          plugin_activity_filter: all
-          config_padding: 0, 8 + 1%
+          token: ${{ secrets.METRICS_TOKEN }}
 
-      #achievements
-      - name: display_achivement
-        uses: lowlighter/metrics@latest
-        with:
-          filename: achievements-metrics.svg
-          token: ${{ METRICS_TOKEN }}
-          base: ""
+          # Options
+          user: nomadkode
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
           plugin_achievements: yes
-          plugin_achievements_display: compact
-          config_display: large
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 30
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 30
+          plugin_people_size: 30
+          plugin_people_types: followers, following
