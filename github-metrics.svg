@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2298" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2281" class="">
     <defs>
         <style/>
     </defs>
@@ -1451,8 +1451,7 @@
                 <div class="row fill-width">
                     <section>
                         <div class="introduction">
-            A dev with Economics background.
-I'm passionate about Design, Data &amp; Code. 
+            I'm passionate about Design, Data &amp; Code. 
           </div>
                     </section>
                 </div>
@@ -4439,7 +4438,7 @@ tapi kok masih request docs team yah? harusnya ngga sih, aku liat case dr repo l
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 Dec 2021, 17:11:07 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 12 Dec 2021, 18:08:45 (timezone Asia/Jakarta) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
