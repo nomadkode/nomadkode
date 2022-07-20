@@ -11,4 +11,3 @@
 <!-- <a href="https://github.com/nomadkode" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a> -->
 <!-- <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
-<h1 align="center"><a href="https://discord.com/users/699805306934263828" target="_blank"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/699805306934263828" alt="nomadkode" /></a></h1>
