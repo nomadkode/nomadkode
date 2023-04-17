@@ -1,7 +1,9 @@
 <h1 align="center">Hi there nomad, I'm Ramset 👋</h1>
 <!-- [Ramset](https://nomadkode.github.io)  -->
-<a href="https://app.daily.dev/nomadkode"><img src="https://api.daily.dev/devcards/b94b5ef4715544f58be9f51d01dd0b7a.png?r=w6a" width="400" alt="ramset's Dev Card"/></a>
 <h2 align="center">Highlight of my activities <p align="center"><img src="https://github.com/nomadkode/nomadkode/blob/main/github-metrics.svg" alt="nomadkode"></p></h2>
+<p align="center">
+<a href="https://app.daily.dev/nomadkode" target="_blank"><img src="https://api.daily.dev/devcards/b94b5ef4715544f58be9f51d01dd0b7a.png?r=w6a" width="400" alt="ramset's Dev Card"/></a>
+</p>
 <p align="center"> 📫 Reach me out please! 😄 on: </p>
 <p align="center">
 <a href="mailto:ramsetiawan@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
