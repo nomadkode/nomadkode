@@ -2336,7 +2336,7 @@
                 <div class="row">
                     <section class="people">
                         <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAIAAABvFaqvAAAACXBIWXMAAAsTAAALEwEAmpwYAAADE0lEQVR4nI2UPUjrUBiGk7ZU49BCKG0VB4fqoIIiIjiooIJTa1xa7HoVVBA6CJEa6uBS3LygIAhOVdDF26EgDuri0J9JMHKF3rS1llIVNNImTU7PvTXXmKbx590Oec6T7zt/CNSKIAjJZFIURUEQIITPz8/wqyCqMQDg4OCgu7vbYrF0dXUtLCykUilRFMFbviWiaXpkZAR9i9ls9nq9mUxGms/zfDwez2azlUrlM9Hx8bHJZEJeYzQaA4EAy7KiKKrqPTo6Wltbk5qVGq8R0TQtWQwGQ0dHRyQS+aQLhmG8Xi9N0yzLqkU+n6+3t7e9vT0ej9/f38Ovkk6nx8bGwuGwXHJVVCqVSJIkCCKdTsNv5+LigiCIaDT6Lsrn85ubm7u7uyqU5/mNnxtOp3N4eHhycnJ9fb1QKCgBn883NzeXyWT+iwqFQjAY5HleCYXDvxwOB1Ibm83KMH9k5vb2dnBwMBAIAAAQAMDT01MymVSuLsdxFosF0crU1JSMAQDGx8enp6dzuVy1IpZllRsJIfx9c4N8nJeXF5lcXFwcGBi4vr6uijiOU60Ox3ENDQ2aFpPJVCqVZHJ1dbWvry8ajSI8z5fLZVVFEMKPWmtutisxiqIcDsfp6SkivqZ+d1tbWzVFKIoqMbfbjeP42dlZtTUAQLlc/qbIZrMpsZ6eHhzHr66uqiJBEBiGUYlmZn7UWxobG1dW/DITi8XsdntLS0uxWKyKKpXKw8NDKpVSiu7u7upFHo9HyTidTrPZ7Pf73+/a4+Pj8vKy6kz29/erRKFQSP66vb2Noqjdbs9mszXPyN7e3vn5+eXlpTTM5/OdnZ0q0ejoaLFYhBBGIpGmpiYURbe2tiT+XRSLxTwez9DQUCgUIkkSx3HNxW5ra1taWsIwDEVRgiBqbr+cnZ0dq9UqTdDr9Qat6HQ66RC4XC7lEa8RiaJ4cnLidrsxDPtEpNfrKYpSnT714y89BhRFTUxMYBhmNBql/0vR6XQulyuRSNTP0hBJm5hIJA4PD4PB4Pz8/OzsLEmS+/v7uVxOk/8n+gspFWsclmQvQwAAAABJRU5ErkJggg==" width="24" height="24" alt="" />
-                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYABgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAQHCAUG/8QAJRAAAQQCAQMEAwAAAAAAAAAAAQIDBBEABQYTIVESMUFhFCKB/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMqZYG64CzrOBQ+Qp3sV+U8224uD0SkpSs0AlZNOEfNDt59ri8Ghw9q6o7CK04jXt9VNfqHSVUhDvkFagL9+/jLd5Fw/VyOJaoT5aYOplPOyktMhI/GabBAXdEnsT2Pg19BmzGTdhrZkBSRNhyI3r7p6zZRY/uMCTqN3O1LMlqA8GkvlBWfSCbQbFX953tbzmfF08yJLU5OeWbjvyXSvoEkEmjd90pI+Ab97xjA8s9PlPoKHpLziSbIUskE3d4xjA//Z" width="24" height="24" alt="" />
+                        <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYABgDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAUG/8QAKhAAAQMCBQIFBQAAAAAAAAAAAQIDBAARBQYSITEHURQVI2GRMnGh0fD/xAAXAQEBAQEAAAAAAAAAAAAAAAAEAwEF/8QAIhEAAQMDAwUAAAAAAAAAAAAAAQACAwQREgUhMSNBYXHB/9oADAMBAAIRAxEAPwCviktqFDW8s7JHHc1g/P8AMcpxx+A4hpocJBAuKq52fCcLbSsmylWJ/vvUNmUhuUhlk+ksAKu3dfvve/wDSaurcx+ICFpemxCASHk7+RyPi1uQc7OYxJXh2KoDU1GyVcarcgjvSsTASljqPCTHcKw5pWSTvz+rUo7LSDJdKXpkBUOoLpejeGR9YTrT7m/H4rFwMxOtbGC2sjk6d/mlKnOcpnXVIGBlHE9vNlayfIIxlE+a2EOLVoT3ANhSlK2meQ0+0+ppozgbdl//2Q==" width="24" height="24" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYABgDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAYHCP/EACoQAAIBBAEDAwIHAAAAAAAAAAECAwAEBREGEhMhFDFhQVEHIkJDcYGR/8QAGAEAAgMAAAAAAAAAAAAAAAAAAgQAAQX/xAAgEQACAgEDBQAAAAAAAAAAAAABAgARAxITQSEjYXGh/9oADAMBAAIRAxEAPwDLuHWV9kJbuIz3iJDHMepZANFIyfoapuOYWTI4CW/vczfoEWQ6iuOjpCfU7/3+KpMHk1xyRXlw1yLDv7nEMC9CBwdA/l9idCrhMRDjrWA3AiuPX3YjMKgdEaFA0iHe/AXz/dLvj1JaDrfzmNYtS5O4bFGh54nN3BsncZjNTwXBMielJ13GP7ifc0rW8pgmwfI72UHuIYXlWGJY+lUMiaAKgHWtGlC9KalANzIDjeWzUnHcqslxHeWjMsUkZZARvyND3J2N6H2+a1DG3r4D8O8XnI0E0jtIqrINhGJcBzvfuAPmlK0BjU4zBXKwKyHyHL7y75G8b9mF1tDHNHGv6wUA3snzoa18UpSl3QXJuMWb3P/Z" width="24" height="24" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYABgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAUHCAQG/8QAKBAAAgICAQMEAAcAAAAAAAAAAQIDEQAEBQYSIRMxQYEHCCJRYXHx/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/ANU543R5LebqZNY7Wq7eqxmgSYGRIyCEtPiij+fmv7yY53eEETqsbS+mkkjqAaNJfaT939ZmOH8a9mXW1Oo4OnOC1zPtjVmEjyuyrYrsAIF13k+APbySSAGtsZH8bsQyRMI5EZEJZTfgqfII/ijX1jA4dfiWhLnuYqY/RVFY9gBP6jXxd3/gyo9X8tHTa6A1NnmuYeME0YTFGau68ofnGMC3H4VJFNJ72tNIwAontYKDV/v7XeMYwP/Z" width="24" height="24" alt="" />
                         <img class="avatar" src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAYABgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAMFBgII/8QAHhAAAgICAwEBAAAAAAAAAAAAAAECAwQREiExE0H/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/EABYRAQEBAAAAAAAAAAAAAAAAAAABEf/aAAwDAQACEQMRAD8A8qE0ato7wq/pl1R67kvfGaOuiqpTlTGHOfT5vpIasmsrJaYJsy1XZEpRSS8SQCIYtxe09NFhl56ycfTjqxtcmv0ACtAAH//Z" width="24" height="24" alt="" />
@@ -2804,7 +2804,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.85m out of 104m repositories</span>
+                                    <span class="gh">ranked 1.85m out of 82.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2842,7 +2842,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 1.44m out of 104m repositories</span>
+                                    <span class="gh">ranked 1.44m out of 82.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 15 stars</div>
                             </div>
@@ -2996,7 +2996,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Mar 2024, 21:10:56 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 28 Mar 2024, 22:10:39 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
