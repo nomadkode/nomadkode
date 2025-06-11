@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -83,7 +83,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            114 Commits
+                            119 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -233,13 +233,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="195.62496793326014" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="195.62496793326014" y="0" width="123.86916998165498" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="319.49413791491514" y="0" width="67.80549484252808" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="387.2996327574432" y="0" width="55.185713455033024" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="442.4853462124762" y="0" width="16.844381964183306" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="459.3297281766595" y="0" width="0.34824764530366203" height="8" fill="#AA6746"/>
-                    <rect mask="url(#languages-bar)" x="459.6779758219632" y="0" width="0.32202417803682004" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="270.03629938041814" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="270.03629938041814" y="0" width="95.01528983585395" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="365.0515892162721" y="0" width="42.378536074106975" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="407.43012529037907" y="0" width="28.02673244864245" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="435.45685773902153" y="0" width="23.60389579265896" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="459.0607535316805" y="0" width="0.4879966001284538" height="8" fill="#AA6746"/>
+                    <rect mask="url(#languages-bar)" x="459.548750131809" y="0" width="0.45124986819107027" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -251,20 +251,20 @@
                                 TypeScript
                             </div>
                             <small>
-                                <div>373 kB</div>
-                                <div>42.53%</div>
+                                <div>367 kB</div>
+                                <div>58.7%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                HTML
+                                CSS
                             </div>
                             <small>
-                                <div>129 kB</div>
-                                <div>14.74%</div>
+                                <div>57.6 kB</div>
+                                <div>9.21%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -276,7 +276,7 @@
                             </div>
                             <small>
                                 <div>32.1 kB</div>
-                                <div>3.66%</div>
+                                <div>5.13%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -288,7 +288,7 @@
                             </div>
                             <small>
                                 <div>614 bytes</div>
-                                <div>0.07%</div>
+                                <div>0.1%</div>
                             </small>
                         </div>
                     </section>
@@ -296,13 +296,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                CSS
+                                HTML
                             </div>
                             <small>
-                                <div>236 kB</div>
-                                <div>26.93%</div>
+                                <div>129 kB</div>
+                                <div>20.66%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -313,8 +313,8 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>105 kB</div>
-                                <div>12%</div>
+                                <div>38.1 kB</div>
+                                <div>6.09%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -326,7 +326,7 @@
                             </div>
                             <small>
                                 <div>664 bytes</div>
-                                <div>0.08%</div>
+                                <div>0.11%</div>
                             </small>
                         </div>
                     </section>
@@ -2405,6 +2405,33 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#cd4ada1</div>
+                                        <div class="message">feat: implement Scan Result Viewer with behavior insights
+
+- Create ResultPageClient component to dynamically render scan results from /logs/
+- Add ResultCard with grouped verdicts, MITRE ATT&amp;CK techniques, and Sigma rule levels
+- Improve visual UI: color-coded badges, tooltips, and smooth motion animation
+- Fix JSON structure parsing for multiple attributes and eliminate duplicated Sigma titles
+- Add animation delays per card with Framer Motion
+- Fix runtime type errors and improve code efficiency and clarity</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">marcoalfans/malwatcher</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#979dd1d</div>
                                         <div class="message">feat: Add VirusTotal analysis result viewer with MITRE &amp; Sigma visualizations</div>
                                     </div>
@@ -2504,26 +2531,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">marcoalfans/malwatcher</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#97d6c30</div>
-                                        <div class="message">Initial commit</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -2547,7 +2554,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Jun 2025, 13:28:14 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Jun 2025, 14:18:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
