@@ -2415,8 +2415,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#ec9ea90</div>
-                                        <div class="message">add YARA rule</div>
+                                        <div class="sha">#ca7029a</div>
+                                        <div class="message">update Hero -&gt; terminal hacker</div>
                                     </div>
                                 </div>
                             </section>
@@ -2435,8 +2435,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#5524fae</div>
-                                        <div class="message">tambah Kamus data untuk deskripsi ekstensi</div>
+                                        <div class="sha">#0e19ac8</div>
+                                        <div class="message">update Hero -&gt; view logs</div>
                                     </div>
                                 </div>
                             </section>
@@ -2455,8 +2455,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#425a5f6</div>
-                                        <div class="message">update result card</div>
+                                        <div class="sha">#0bee803</div>
+                                        <div class="message">update quick links</div>
                                     </div>
                                 </div>
                             </section>
@@ -2475,15 +2475,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#cd4ada1</div>
-                                        <div class="message">feat: implement Scan Result Viewer with behavior insights
-
-- Create ResultPageClient component to dynamically render scan results from /logs/
-- Add ResultCard with grouped verdicts, MITRE ATT&amp;CK techniques, and Sigma rule levels
-- Improve visual UI: color-coded badges, tooltips, and smooth motion animation
-- Fix JSON structure parsing for multiple attributes and eliminate duplicated Sigma titles
-- Add animation delays per card with Framer Motion
-- Fix runtime type errors and improve code efficiency and clarity</div>
+                                        <div class="sha">#31111ae</div>
+                                        <div class="message">add telegram bot and update UI/UX</div>
                                     </div>
                                 </div>
                             </section>
@@ -2502,8 +2495,8 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#979dd1d</div>
-                                        <div class="message">feat: Add VirusTotal analysis result viewer with MITRE &amp; Sigma visualizations</div>
+                                        <div class="sha">#483c6c7</div>
+                                        <div class="message">add telegram bot and update UI/UX</div>
                                     </div>
                                 </div>
                             </section>
@@ -2531,7 +2524,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jun 2025, 11:26:48 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Jun 2025, 12:18:38 (timezone Asia/Jakarta) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
